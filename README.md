@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Access the page deployed in netlify through: https://emobilestore.netlify.com/
 
 ## Available Scripts
 
